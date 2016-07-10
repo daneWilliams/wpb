@@ -1,2 +1,2 @@
-# wpb
-A starting point for WordPress Development
+# WPB
+A starting point for WordPress development
